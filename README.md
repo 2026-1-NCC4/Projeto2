@@ -66,7 +66,7 @@ Há também 4 pastas que seguem da seguinte forma:
 
 <b>Android:</b>
 
-Faça o Download do JOGO.apk no seu celular.
+Faça o Download do DASHBOARD.apk no seu celular.
 Execute o APK e siga as instruções de seu telefone.
 
 ```sh
