@@ -18,17 +18,14 @@
 
 ## Descrição
 
+Este projeto é uma plataforma de centralização e análise de dados desenvolvida para a Cannoli, projetada para transformar métricas complexas em insights visuais e acionáveis. O foco principal é otimizar a leitura de KPIs e agilizar a tomada de decisão operacional.
+
+Além da visualização intuitiva, a arquitetura foi desenhada priorizando a escalabilidade e a segurança, garantindo que a integridade dos dados seja mantida mesmo com o aumento do volume de informações processadas. Com uma estrutura modular e pronta para integração com múltiplas fontes, o dashboard não atua apenas como um espelho do passado, mas como uma ferramenta estratégica que permite identificar tendências, antecipar gargalos operacionais e refinar o fluxo de trabalho diário da empresa com precisão cirúrgica.
+<br>
 <p align="center">
 <img src="https://github.com/user-attachments/assets/7435da2e-13f1-4744-a797-3f71ecaf094a" alt="NOME DO JOGO" border="0">
-  Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
+  Home page <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
 </p>
-
-
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
-<br><br>
-Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
-<br><br>
-May the force be with you!
 <br><br>
 
 ## 🛠 Estrutura de pastas
@@ -36,16 +33,23 @@ May the force be with you!
 -Raiz<br>
 |<br>
 |-->documentos<br>
-  &emsp;|-->antigos<br>
+  &emsp;|-->Entrega 1<br>
+    &emsp;&emsp;|-->Análise Inferencial de Dados<br>
+    &emsp;&emsp;|-->Contabilida de e Finanças<br>
+    &emsp;&emsp;|-->Engenhariade Software e Arquitetura de Sistemas<br>
+  &emsp;|-->Entrega 2<br>
+    &emsp;&emsp;|-->Análise Inferencial de Dados<br>
+    &emsp;&emsp;|-->Contabilida de e Finanças<br>
+    &emsp;&emsp;|-->Engenhariade Software e Arquitetura de Sistemas<br>
   &emsp;|Documentação.docx<br>
-|-->executáveis<br>
-  &emsp;|-->windows<br>
-  &emsp;|-->android<br>
-  &emsp;|-->HTML<br>
 |-->imagens<br>
 |-->src<br>
-  &emsp;|-->Backend<br>
-  &emsp;|-->Frontend<br>
+  &emsp;|-->Entrega 1<br>
+    &emsp;&emsp;|-->Backend<br>
+    &emsp;&emsp;|-->Frontend<br>
+  &emsp;|-->Entrega 2<br>
+    &emsp;&emsp;|-->Backend<br>
+    &emsp;&emsp;|-->Frontend<br>
 |readme.md<br>
 
 A pasta raiz contem dois arquivos que devem ser alterados:
