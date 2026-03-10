@@ -6,3 +6,6 @@
 ## 2. Metodologia
 * **Ambiente:** RStudio
 * **Pacotes:** `rcmdr`, `dplyr`, `writexl`.
+
+## 3. Responsável
+<p>O responsável por essa entrega foi: <b>Vinicius Lima</b></p>
