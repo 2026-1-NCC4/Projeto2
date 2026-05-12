@@ -19,3 +19,11 @@ streamlit-echarts
 openai
 supabase
 ```
+É necessário fazer um simples cadastro para acessar o dashboard, as senhas estão sendo tratadas pelo próprio supabase com hashing, então não se preocupe.
+</br>
+Caso ainda assim não confie, pode usar o seguinte acesso:
+</br>
+</br>
+Email: ```admin@gmail.com```
+</br>
+Senha: ```admin123```
